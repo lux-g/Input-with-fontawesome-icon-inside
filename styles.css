@@ -1,0 +1,22 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.icon-container{
+  border: 1px solid #ddd;    
+  display: flex;
+  flex-direction: row;
+  border-radius: 8px;
+  padding: 2px;
+
+}
+.search-input {
+    border: none;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+}
+.input-icon {
+    padding: 8px;
+    border-radius: 8px;
+}
